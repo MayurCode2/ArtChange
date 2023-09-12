@@ -193,9 +193,9 @@ const dummyCourses = [
       "courseDescription": "Explore the wonders of Webdevelopment through a Code-Editor.",
       "courseDuration": "4 weeks",
       "instructor": "John Smith",
-      "enrollmentCapacity": 10,
-      "availableSeats": 10,
-      "specialSeats": 5
+      "enrollmentCapacity": 20,
+      "availableSeats": 15,
+      "specialSeats": 10
     },
   ];
   
