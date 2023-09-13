@@ -179,6 +179,24 @@ const dummyCourses = [
       "availableSeats": 15,
       "specialSeats": 5
     },
+    {
+      "courseName": "Introduction to complete Git and Github course",
+      "courseDescription": "Explore the New Collaboration World in Tech-Area.",
+      "courseDuration": "4 weeks",
+      "instructor": "John Smith",
+      "enrollmentCapacity": 10,
+      "availableSeats": 10,
+      "specialSeats": 5
+    },
+    {
+      "courseName": "Introduction to complete Visual-Studio Code('VS-Code') course",
+      "courseDescription": "Explore the wonders of Webdevelopment through a Code-Editor.",
+      "courseDuration": "4 weeks",
+      "instructor": "John Smith",
+      "enrollmentCapacity": 20,
+      "availableSeats": 15,
+      "specialSeats": 10
+    },
   ];
   
   // Continue adding more courses if needed...
